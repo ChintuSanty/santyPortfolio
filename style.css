@@ -1,0 +1,34 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .colo {
+    color: blue;
+  }
+  
+  #cal {
+    color: burlywood;
+  }
+  
+  li {
+    float: left;
+    padding: 0 25px;
+  }
+  
+  nav {
+    background-color: rgba(16, 15, 15, 1);
+    min-height: 50px;
+  }
+  
+  body {
+    margin: 0px;
+  }
+  
+  ul {
+    margin: 0px;
+    list-style: none;
+  }
+  #test{
+    font-family: 'Raleway', sans-serif;
+  }
